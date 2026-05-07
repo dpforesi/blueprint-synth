@@ -117,6 +117,8 @@ The `docs/notebooks/` directory contains a step-by-step notebook series covering
 | [05 — The Dependency DAG](docs/notebooks/05_dependency_dag.ipynb) | Topological sort, cycle detection, visualization |
 | [06 — Assembly & Emission](docs/notebooks/06_assembly_and_emission.ipynb) | Blueprint construction, validate, describe, emit, output formats |
 
+Note that the notebooks are still a work in progress, but should be completed soon. Thank you for your patience.
+
 ## Preset library
 
 ```python
